@@ -1,3 +1,3 @@
 # TipCalculator 
-Is a project i made in swift language for IOS devices.
+Is a project I developed in swift language for IOS 14 devices using Xcode IDE.
 
